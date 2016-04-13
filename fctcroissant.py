@@ -23,9 +23,6 @@ for i in x :
     print (tri)
     min = minimum(x)
     x.remove (min)
-    print(x)
-
-
 
 
 
